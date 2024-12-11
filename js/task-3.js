@@ -1,3 +1,7 @@
+console.log(" ");
+console.log("Третє завдання");
+console.log(" ");
+
 function getElementWidth(content, padding, border) {
     let widthContent = parseFloat(content);
     let valuePading = parseFloat(padding);
